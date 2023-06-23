@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamedNaghdi
-- 👀 I’m interested in web applications especially asp.net 6
-- 💞️ I’m looking to collaborate on professional team
+- 👀 I’m interested in web applications, especially dot net
+- 💞️ I’m looking to collaborate on a professional team
 - 📫 How to reach me? It's simple, hamed_naghdi@yahoo.com
 
 <!---
